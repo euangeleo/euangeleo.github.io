@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Language and Linguistics | Natural Language Processing | Leadership
 
 profile:
   align: right
@@ -18,8 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Eric studied both physics and linguistics as an undergraduate at the University of Arizona and went on to graduate study in linguistics at UCLA. Since completing a [PhD in Linguistics](https://linguistics.ucla.edu/ericjackson_dissertation2005/) in 2005, he has worked in southern China and Southeast Asia in community-based Applied Linguistics for [SIL Global](https://www.sil.org), an international language development NGO. [This work](https://www.sil.org/contributor/jackson-eric-m) included cooperative projects with government agencies, minority language community members, and curriculum development and teaching in a joint Masters program in Kunming.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Eric is now teaching in the [Master's in Human Language Technology](https://uazhlt.github.io/) program in the [Department of Linguistics](https://linguistics.arizona.edu/), helping students gain the skills to develop and use computational tools for applications within natural language. Although many current natural language tools have been developed for high-resource languages like English, Eric's passion is to see these computational tools also empowering language communities that don't have huge existing datasets.
