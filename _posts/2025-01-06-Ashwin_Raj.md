@@ -7,7 +7,7 @@ tags: MSHLT students
 categories: MSHLT
 ---
 
-
+[See this post on LinkedIn](https://www.linkedin.com/posts/eric-m-jackson_with-each-new-academic-year-its-inspiring-activity-7282082146414931969-M_56?utm_source=share&utm_medium=member_desktop)
 
 With each new academic year, it's inspiring to read about the projects that the students in our *Master's in Human Language Technology* program pursue for their internship. I recently read through the portfolio for [Ashwin Raj](https://www.linkedin.com/in/ashwin-raj-056140181/), who developed an Invention Classification and Market Research Tool for [TECH Launch Arizona](https://techlaunch.arizona.edu/). It'll be a fortunate company that hires Ashwin when he completes his degree program this spring. I'm optimistic that he can find a role that aligns with his desire to make a positive impact in the world!
 
