@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MSHLT Student: Ashwin Raj
+title: MSHLT Student Ashwin Raj
 date: 2025-01-06 12:00:00
 description: Introducing MSHLT student Ashwin Raj
 tags: MSHLT students
