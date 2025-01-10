@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Occasional updates # blog_name will be displayed in your blog page
-blog_description: occasional updates from Eric Jackson
+blog_description: from Eric Jackson
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -169,12 +169,16 @@ disqus_shortname: # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
+  - name: LinkedIn posts
     posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
+      - url: https://www.linkedin.com/posts/eric-m-jackson_ive-been-planning-to-introduce-retrieval-augmented-activity-7222020689111736320-KbYC
+        published_date: 2024-07-24
+      - url: https://www.linkedin.com/posts/eric-m-jackson_your-data-enables-insights-your-data-drives-activity-7232155912579260416-Hids
+        published_date: 2024-08-21
+      - url: https://www.linkedin.com/posts/eric-m-jackson_vector-databases-are-the-wrong-abstraction-activity-7260384427791310850-jnuq
+        published_date: 2024-11-07
+      - url: https://www.linkedin.com/posts/eric-m-jackson_who-and-what-comprises-ai-skepticism-activity-7272420830108610560-ZhuK
+        published_date: 2024-12-11
 
 # -----------------------------------------------------------------------------
 # Newsletter
