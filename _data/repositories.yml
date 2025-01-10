@@ -1,14 +1,14 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - euangeleo
+  - uazhlt
+  - uazhlt-ms-program
+  - arizona-linguistics
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - Skyrunner23/song-quiz
+  - euangeleo/aircraft-seat
+  - uazhlt-ms-program/ling-508-mysql-via-docker
+  - uazhlt-ms-program/ling-508-flask-mysql-via-docker
+  - sillsdev/silnlp
