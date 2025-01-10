@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Home
 permalink: /
 subtitle: Language and Linguistics | Natural Language Processing | Leadership
 
