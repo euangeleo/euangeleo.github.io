@@ -11,7 +11,7 @@ You need to take the following steps to get `al-folio` up and running on your lo
 * First, install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/). 
 * Finally, run the following command that will pull the latest pre-built image from DockerHub and will run your website.
 
-```commandline
+```
 $ docker compose pull
 $ docker compose up
 ```
