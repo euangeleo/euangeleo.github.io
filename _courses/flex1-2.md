@@ -22,6 +22,7 @@ Through eight 90-minute, hands-on sessions, participants will learn important co
 </div>
 
 By the end of this two-week workshop,
+
 - participants will have created a language project in FLEx, with at least a few sample entries.
 - participants will know how to continue entering word and meaning information into their database.
 - participants will be well-prepared to continue learning how to use FLEx and to become more comfortable with its interface.
