@@ -1,49 +1,33 @@
 ---
 layout: page
-title: Workshop ~ FLEx 1-2
-description: Introduction to FLEx
+title: FLEx 1 & 2 workshop
+description: Introduction to dictionary-making with FLEx
 img: assets/img/flex1-2.png
 importance: 1
 category: other
 related_publications: false
 ---
 
-The goal of this course is to ***equip you with conceptual and mathematical tools to analyze and formally model language.***
+*Facilitated by Gabriela de la Cruz Sanchez & Eric Jackson, University of Arizona*
+
+Through eight 90-minute, hands-on sessions, participants will learn important concepts that form the foundation of dictionary-making, including issues of writing systems, part-of-speech categories, and the relationships between words and meaning. We introduce [Fieldworks Language Explorer (FLEx)](https://software.sil.org/fieldworks/), an application that allows users to create a database of word and meaning information. Workshop sessions include a mix of informational sessions and practical tasks to be performed with FLEx.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <p>Humans use complex language, and this is one of the fundamental characteristics of our species. In this course, you will learn how to think mathematically by analyzing the structure underlying the languages we all speak and use to reason. We will learn concepts from formal language theory, discrete mathematics, set theory, and basic logic to explore and understand puzzling properties of language that we encounter in everyday contexts. Although the concepts we’ll use require attention to detail, we’ll see that not only are they very powerful, but also intuitive to work with. This course is an excellent opportunity to learn about symbolic, mathematical tools that have virtually no numbers, but have the power and precision to model accessible and intriguing data in the domain of natural human language.</p>
-    </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/thecar.png" title="example of a finite state machine" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/flex.png" title="introducing FLEx" class="img-fluid rounded z-depth-1" %}
         <div class="caption">
-            This simple finite state machine characterizes some simple phrases in English
+            Introducing FLEx
         </div>
     </div>
 </div>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/redcar.png" title="using sets to represent the meaning of a phrase like 'red car'" class="img-fluid rounded z-depth-1" %}
-        <div class="caption">
-    This representation of the world using Naive Set Theory allows us to model the meaning of some simple phrases in English
-        </div>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <a href="https://kb.math.arizona.edu/placement/index.php?pg=kb.page&id=137" target="_blank">This course</a> satisfies a General Education math requirement for certain majors.
-    </div>
-</div>
+By the end of this two-week workshop,
+* participants will have created a language project in FLEx, with at least a few sample entries.
+* participants will know how to continue entering word and meaning information into their database.
+* participants will be well-prepared to continue learning how to use FLEx and to become more comfortable with its interface.
 
-## Most recent syllabus
+This workshop is ideal for community members who are somewhat comfortable working with computers (though you don't need to be an expert!) and who would like to begin documenting the words of their language or community, either on their own or with cooperation from other community members.
 
-<div class="row justify-content-sm-center">
-  <div class="col-sm mt-3 mt-md-0">
-    <object data="../../assets/pdf/LING123-2024Fall-Jackson.pdf" type='application/pdf' width="100%" height="800">
-    </object>
-  </div>
-</div>
+## Workshop materials
 
-### All past syllabi for this course
-
-* [Fall 2024](../../assets/pdf/LING123-2024Fall-Jackson.pdf)
-* [Fall 2023](../../assets/pdf/LING123-2023Fall-Jackson.pdf)
+* [CoLang 2024 on Google Drive](https://drive.google.com/drive/folders/1QuRNfqQb__R1gDzZQ1ILVgLuSZlTf-kT?usp=drive_link)
