@@ -2,8 +2,8 @@
 layout: post
 title: Celebrating my new MentiMeter certification
 date: 2024-05-02 12:00:00
-description: 
-tags: honors
+description:
+tags: honors teaching
 categories: news
 ---
 

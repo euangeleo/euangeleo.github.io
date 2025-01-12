@@ -18,7 +18,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://euangeleo.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -173,12 +173,20 @@ external_sources:
     posts:
       - url: https://www.linkedin.com/posts/eric-m-jackson_ive-been-planning-to-introduce-retrieval-augmented-activity-7222020689111736320-KbYC
         published_date: 2024-07-24
+        tags: teaching AI
+        categories: LinkedIn MSHLT
       - url: https://www.linkedin.com/posts/eric-m-jackson_your-data-enables-insights-your-data-drives-activity-7232155912579260416-Hids
         published_date: 2024-08-21
+        tags: HLT
+        categories: LinkedIn MSHLT
       - url: https://www.linkedin.com/posts/eric-m-jackson_vector-databases-are-the-wrong-abstraction-activity-7260384427791310850-jnuq
         published_date: 2024-11-07
+        tags: HLT
+        categories: LinkedIn
       - url: https://www.linkedin.com/posts/eric-m-jackson_who-and-what-comprises-ai-skepticism-activity-7272420830108610560-ZhuK
         published_date: 2024-12-11
+        tags: AI HLT
+        categories: LinkedIn
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -309,8 +317,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
-display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
+display_tags: ["students", "teaching", "honors", "HLT", "AI"] # these tags will be displayed on the front page of your blog
+display_categories: ["MSHLT", "AILT", "news", "LinkedIn"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

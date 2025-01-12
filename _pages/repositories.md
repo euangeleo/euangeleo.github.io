@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: A few places of interest 
+description: A few places of interest
 nav: true
 nav_order: 2
 ---

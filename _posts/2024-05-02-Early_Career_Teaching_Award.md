@@ -3,7 +3,7 @@ layout: post
 title: UA SBS Early Career Teaching Award
 date: 2024-05-02 12:00:00
 description: UA SBS Early Career Teaching Award
-tags: UA honors
+tags: honors teaching
 categories: news
 ---
 
