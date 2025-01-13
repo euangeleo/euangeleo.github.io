@@ -328,7 +328,7 @@ scholar:
   last_name: [Jackson]
   first_name: [Eric, M.]
 
-  style: apa
+  style: https://raw.githubusercontent.com/citation-style-language/styles/refs/heads/master/unified-style-sheet-for-linguistics.csl
   locale: en
 
   source: /_bibliography/
