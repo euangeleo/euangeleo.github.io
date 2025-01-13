@@ -33,6 +33,7 @@
   "work": [
     {
       "name": "Department of Linguistics, University of Arizona",
+      "location": "Tucson, Arizona",
       "position": "Assistant Professor of Practice",
       "url": "https://linguistics.arizona.edu",
       "startDate": "2021-10-01",
@@ -50,7 +51,8 @@
     },
     {
       "name": "SIL International",
-      "position": "(several roles)",
+      "location": "various",
+      "position": "Linguistics Consultant\nAssociate Director for Academic Affairs\n(other roles as below)",
       "url": "https://www.sil.org",
       "startDate": "2005-11-07",
       "endDate": "2022-04-31",
@@ -65,6 +67,7 @@
     },
     {
       "name": "Unbabel",
+      "location": "remote",
       "position": "Linguistic annotator",
       "startDate": "2018",
       "endDate": "2019",
@@ -72,6 +75,7 @@
     },
     {
       "name": "Sino-Tibetan Institute, Yunnan Normal University, in partnership with SIL International",
+      "location": "Kunming, Yunnan, China",
       "position": "Curriculum developer and instructor",
       "startDate": "2018",
       "endDate": "2019",
@@ -79,6 +83,7 @@
     },
     {
       "name": "Oregon Summer Institute of Linguistics",
+      "location": "Eugene, Oregon",
       "position": "Lead instructor",
       "startDate": "2004",
       "endDate": "2005",
@@ -86,6 +91,7 @@
     },
     {
       "name": "Office of Instructional Development, for the Department of Linguistics, UCLA",
+      "location": "Los Angeles, California",
       "position": "TA Coordinator and instructor; Prof. Anoop Mahajan, faculty advisor",
       "startDate": "2002-02-01",
       "endDate": "2002-06-01",
@@ -93,6 +99,7 @@
     },
     {
       "name": "Department of Linguistics, UCLA",
+      "location": "Los Angeles, California",
       "position": "Teaching Assistant / Teaching Associate",
       "startDate": "2000-09-01",
       "endDate": "2002-02-01",
@@ -104,13 +111,15 @@
     },
     {
       "name": "Tellme Networks",
+      "location": "remote",
       "position": "Linguistic consultant",
       "startDate": "2000-06-01",
       "endDate": "2000-08-31",
       "summary": "Developing phonetic database of street names for TTS & ASR"
     },
     {
-      "name": "Jordan's Language Center, Hsinchu, Taiwan",
+      "name": "Jordan's Language Center",
+      "location": "Hsinchu, Taiwan, China",
       "position": "English instructor",
       "startDate": "1998-10-01",
       "endDate": "1999-06-01",
@@ -215,41 +224,141 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Dynamic Language Infrastructure – Documenting Endangered Languages Grant (co-recipient with Amy Fountain, Aresta Tsosie-Paddock, and Rolando Coto-Solano)",
+      "date": "2024",
+      "awarder": "NSF / NEH",
+      "summary": "Grant title: “Collaborative Research: Advancing Indigenous Language Technologies” (2347147/2347148)"
+    },
+    {
+      "title": "2023-4 Early Career Teaching Award",
+      "date": "2024-09-12",
+      "awarder": "U of A College of Social & Behavioral Science",
+      "summary": "In recognition of exceptional teaching and outstanding instructional excellence"
+    },
+    {
+      "title": "Dissertation Year Fellowship",
+      "date": "2004",
+      "awarder": "UCLA Graduate Division"
+    },
+    {
+      "title": "Helmut Esau Student Paper Award",
+      "date": "2004",
+      "awarder": "Linguistic Association of the Southwest",
+      "summary": "for the paper “Dispersion in the Vowel System of Pima”"
+    },
+    {
+      "title": "Phillips Fund for North Native American Research, research grant (co-recipient with Marcus Smith)",
+      "date": "2024-09-12",
+      "awarder": "American Philosophical Society",
+      "summary": "Grant title: “Aspects of the Grammar of Pima”"
+    },
+    {
+      "title": "Research Mentorship, under Prof. Pamela Munro",
+      "date": "2002",
+      "awarder": "UCLA"
+    },
+    {
+      "title": "Research grant (co-recipient with Marcus Smith)",
+      "date": "2002",
+      "awarder": "UCLA Institute of American Cultures & UCLA American Indian Studies Center",
+      "summary": "Grant title: “Syntax and Semantics of Pima Verbs”"
+    },
+    {
+      "title": "Summer Research Mentorship, under Prof. Pamela Munro",
+      "date": "2002",
+      "awarder": "UCLA"
+    },
+    {
+      "title": "Pauley Foundation Fellowship",
+      "date": "1999",
+      "awarder": "UCLA"
+    },
+    {
+      "title": "Outstanding Senior",
+      "date": "1998",
+      "awarder": "University of Arizona CDepartment of Physics"
+    },
+    {
+      "title": "UA Dean of Science review committee, undergraduate representative",
+      "date": "1998-03-01"
+    },
+    {
+      "title": "Phi Beta Kappa Honor Society",
+      "date": "1997"
+    },
+    {
+      "title": "Flinn Foundation Scholarship",
+      "date": "1993"
+    },
+    {
+      "title": "National Merit Scholarship",
+      "date": "1993"
+    },
+    {
+      "title": "International Baccalaureate diploma",
+      "date": "1993"
+    },
+    {
+      "title": "Eagle Scout rank",
+      "date": "1991"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Two-part negation in Yang Zhuang",
+      "publisher": "Journal of the Southeast Asian Linguistics Society",
+      "releaseDate": "2019",
+      "url": "http://hdl.handle.net/10524/52443",
+      "summary": "The negation system of Yang Zhuang includes two standard negators and an aspectual negator, all of which occur before the verb; the negator meiz nearly always co-occurs with a clause-final particle nauq, which can also stand as a single-word negative response to a question. Although it is tempting to analyze nauq with a meaning beyond simply negation, this is difficult to do synchronically. Comparison with neighboring Tai languages suggests that this construction represents one stage in Jespersen's Cycle, whereby a negator is augmented with a second element, after which the second element becomes associated with negation; this element subsequently replaces the historical negator. A Jespersen's Cycle analysis also explains the occurrence of nauq as a preverbal negator in some neighboring Zhuang languages."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "A sociolinguistic survey of the Dejing Zhuang dialect area",
+      "publisher": "SIL Electronic Survey Reports",
+      "releaseDate": "2012",
+      "url": "http://www.sil.org/resources/publications/entry/50901",
+      "summary": "This report presents the results of a dialect intelligibility survey carried out in 2008 in the southwestern part of the Guangxi Zhuang Autonomous Region of China. The Zhuang varieties surveyed in this area have been grouped into the Central branch of Taic languages. This survey of nineteen locations across the dialect area found evidence from intelligibility, from similarity of wordlists and from speaker attitudes, for assigning them to at least two distinct ISO 639-3 language codes, [zyg] “Yang Zhuang” and [zgm] “Minz Zhuang”. Language development efforts among most of the remaining one-sixth of the Zhuang population of the Dejing area would require other varieties as a basis, but for many of these varieties, Jingxi Yang could likely still be used as a means of widespread communication."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Review of Beth Levin and Malka Rappaport Hovav, Argument Realization (2005)",
+      "publisher": "SIL Electronic Book Reviews",
+      "releaseDate": "2008",
+      "url": "https://www.sil.org/resources/publications/entry/40632",
+      "summary": "This book is composed of an introduction which lays out the major questions regarding argument realization: Which elements of meaning are relevant for the mapping from lexical semantics to morphosyntactic expression? What should lexical semantic representations be like in order to encode this information? How is the mapping from lexical semantics to syntax carried out? What effect do factors apart from the semantics of the verb, like semantic weight of an argument (i.e., its grammatical complexity), or information structure and discourse context, have on the realization of a predicate and its arguments? To what extent are semantic determinants of argument structure \"lexical\", and to what extent not?"
+    },
+    {
+      "name": "Dispersion in the vowel system of Pima",
+      "publisher": "UCLA Working Papers in Phonetics",
+      "releaseDate": "2008",
+      "url": "https://escholarship.org/uc/item/3tt2m1vs",
+      "summary": "This is a pilot study of the phonetic variation of vowels due to stress and syllable type in Pima, a dialect of O’odham. O’odham, along with several other Uto-Aztecan languages, has a five vowel system which appears unevenly distributed in two ways: its only front vowel is high, and it includes three high-back or high-mid vowels. This arrangement of canonical vowels appears not to reflect the influence of a drive for maximal dispersion of canonical vowels, something which has been argued to account for the frequency and type of vowel inventories cross-linguistically. Several properties of the allophonic variation observed in Pima, however, can be explained by appealing to just such a drive to maximize acoustic distinctness. Factors besides maximal distinctness must also be involved in controlling this distribution, however, as evidenced by the relative stability of this vowel system among Uto-Aztecan languages."
+    },
+    {
+      "name": "Resultatives, derived statives, and lexical semantic structure",
+      "publisher": "UCLA dissertation",
+      "releaseDate": "2005",
+      "url": "http://linguistics.ucla.edu/general/dissertations/JacksonDissertationUCLA2005.pdf",
+      "summary": "This dissertation examines two resultative suffixes in Pima whose properties are relevant for the hypothesis that the meanings of words in natural language have structure. The passive resultative suffix –s is canonically interpreted as a resultative proper; verbs with this suffix typically express the condition which results from an event of the type denoted by the unsuffixed verb. Certain verbs with this suffix, however, receive a derived stative interpretation, where the condition which they express need not be the result of any event at all. The possessive resultative suffix –kc, in contrast, has a more restricted distribution; verbs with this suffix receive either a resultative or derived stative interpretation, where the subject of the suffixed verb is responsible for maintaining this condition. While several analyses of the Pima resultatives are considered here, the most economical analysis of the distribution of interpretations which Pima resultatives receive involves monotonically adding semantic components in order to build the meaning of both eventive verbs and resultatives. This analysis is presented within the framework of Distributed Morphology, where the semantic components of these verbs are associated with a number of abstract syntactic elements. Since these resultatives are temporally stative, an introductory chapter explores what temporal stativity is and what it indicates about a predicate; another introductory chapter discusses published analyses of resultatives in Chichewa and German, which show several quite different ways that a morphologically and semantically derived predicate may be given this property."
+    },
+    {
+      "name": "The “s”-ence of Pima",
+      "publisher": "Santa Barbara Papers in Linguistics, Vol 13. Proceedings from the Fifth Workshop on American Indigenous Languages",
+      "releaseDate": "2002",
+      "url": "https://www.linguistics.ucsb.edu/sites/secure.lsit.ucsb.edu.ling.d7/files/sitefiles/research/papers/Working%20Papers%20Vol%2013.pdf",
+      "summary": "This paper examines the morphological, syntactic, and semantic properties of a verbal and adjectival prefix in Pima. One puzzling morpheme shared by Pima and Tohono O'odham is a prefix with the phonological form [s], which occurs in certain syntactic environments on many adjectives and a small set of verbs. The best generalization in Pima is that this morpheme occurs only on predicates with stative lexical aspect, but is also sensitive to polarity (ie, negation) and shows a significant number of lexical exceptions."
+    },
+    {
+      "name": "The stative s- morpheme in Pima",
+      "publisher": "UCLA",
+      "releaseDate": "2002",
+      "url": "https://linguistics.ucla.edu/general/matheses/Jackson_UCLA_MA_2002.pdf",
+      "summary": "This thesis describes the behavior of a prefix which occurs on adjectives and verbs in the O'odham languages of Pima and Papago, Tepiman languages of Southern Uto-Aztecan, spoken in Arizona and Mexico. This prefix, whose phonological form is s-, shows a moderate, but not perfect,correlation with stative lexical aspect. This paper models the behavior of the s- prefix within the non-Lexicalist framework of Distributed Morphology, treating the s- as the expression of a grammaticized semantic feature [+ STATIVE ]."
     }
   ],
   "skills": [
     {
       "name": "Technology",
       "level": "Advanced",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-desktop",
       "keywords": [
         "Linux (desktop and shell, Ubuntu/Debian)",
         "Virtualization (VirtualBox) and containerization (Docker) tools",
@@ -263,37 +372,37 @@
     {
       "language": "English [eng]",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fa-solid fa-comments"
     },
     {
       "language": "Mandarin [zho]",
       "fluency": "reading; advanced conversation (ACTFL Advanced+)",
-      "icon": ""
+      "icon": "fa-solid fa-comments fa-language"
     },
     {
       "language": "Yang Zhuang [zyg] (Kra-Dai)",
       "fluency": "field work (ACTFL Intermediate Mid)",
-      "icon": "fa-solid fa-language"
+      "icon": "fa-solid fa-comments"
     },
     {
       "language": "Akimel O'odham [ood] (Uto-Aztecan)",
       "fluency": "fieldwork",
-      "icon": ""
+      "icon": "fa-solid fa-pencil-square"
     },
     {
       "language": "Bolivian Aymara [ayr] (Aymaran)",
       "fluency": "basic fieldwork",
-      "icon": ""
+      "icon": "fa-solid fa-pencil-square"
     },
     {
       "language": "German [deu]",
       "fluency": "reading; basic conversation",
-      "icon": ""
+      "icon": "fa-solid fa-book"
     },
     {
       "language": "Russian [rus]",
       "fluency": "reading; basic conversation",
-      "icon": ""
+      "icon": "fa-solid fa-book"
     }
   ],
   "interests": [
