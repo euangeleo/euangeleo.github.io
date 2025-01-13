@@ -55,7 +55,8 @@
       "startDate": "2005-11-07",
       "endDate": "2022-04-31",
       "summary": "My work in SIL included basic linguistics and language documentation, as well as administrative supervision for academic support",
-      "highlights": ["Linguistics Consultant (Jul 2010 to present, continuing as a volunteer)",
+      "highlights": [
+        "Linguistics Consultant (Jul 2010 to present, continuing as a volunteer)",
         "Associate Director for Academic Affairs, regional (Sept 2018 to Apr 2022)",
         "Linguistics Coordinator, regional (Mar 2013 to Aug 2018)",
         "Archive curator, regional (Apr 2013 to Aug 2016)",
@@ -95,7 +96,8 @@
       "position": "Teaching Assistant / Teaching Associate",
       "startDate": "2000-09-01",
       "endDate": "2002-02-01",
-      "highlights": ["Linguistics 1 “Introduction to the Study of Language”",
+      "highlights": [
+        "Linguistics 1 “Introduction to the Study of Language”",
         "Linguistics 20 “Introduction to Linguistics”",
         "Linguistics 110 “Historical Linguistics”"]
     },
@@ -111,7 +113,8 @@
       "position": "English instructor",
       "startDate": "1998-10-01",
       "endDate": "1999-06-01",
-      "highlights": ["“Conversational English”",
+      "highlights": [
+        "“Conversational English”",
         "“Business English”",
         "“Basic English for Children”"]
     }
@@ -125,7 +128,11 @@
       "startDate": "2024-06-03",
       "endDate": "2024-06-14",
       "summary": "Facilitated and supported several workshops",
-      "highlights": ["Fieldworks Language Explorer 1 & 2, co-facilitator", "Natural Language Processing for Indigenous Languages, assistant", "Speech Recognition for Indigenous Languages, assistant"]
+      "highlights": [
+        "Fieldworks Language Explorer 1 & 2, co-facilitator",
+        "Natural Language Processing for Indigenous Languages, assistant",
+        "Speech Recognition for Indigenous Languages, assistant"
+      ]
     },
     {
       "organization": "Journal of Language Survey Reports",
@@ -295,9 +302,7 @@
     {
       "name": "Human Language Technology",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Partnering with data-scarce language communities to make computational tools available in their languages"
-      ]
+      "keywords": ["Partnering with data-scarce language communities to make computational tools available in their languages"]
     },
     {
       "name": "Language Documentation",
