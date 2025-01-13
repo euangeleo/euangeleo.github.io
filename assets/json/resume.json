@@ -1,61 +1,211 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Eric M. Jackson",
+    "label": "Assistant Professor of Practice",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ejackson1@arizona.edu",
+    "phone": "+1 (520) 621-6897",
+    "url": "https://euangeleo.github.io/",
+    "summary": "Language and Linguistics | Natural Language Processing | Leadership",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "Communications Building, Room 109",
+      "postalCode": "AZ 85721",
+      "city": "Tucson",
       "countryCode": "US",
-      "region": "California"
+      "region": "Arizona"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "eric-m-jackson",
+        "url": "https://www.linkedin.com/in/eric-m-jackson"
+      },
+      {
+        "network": "Academia.edu",
+        "url": "https://arizona.academia.edu/EricJackson"
+      },
+      {
+        "network": "SIL Language and Culture Archive",
+        "url": "https://www.sil.org/resources/search/contributor/jackson-eric-m"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Department of Linguistics, University of Arizona",
+      "position": "Assistant Professor of Practice",
+      "url": "https://linguistics.arizona.edu",
+      "startDate": "2021-10-01",
+      "summary": "Teaching courses primarily in the online _Master's in Human Language Technology_ program",
+      "highlights": [
+        "Linguistics 123 “Intro to Mathematical Approaches to Language”",
+        "Linguistics 503 “Foundations of Syntax”",
+        "Linguistics 508 “Computational Techniques for Linguists”",
+        "Linguistics 529 “Human Language Technology 1”",
+        "Linguistics 531 “Human Language Technology 2: Information Retrieval”",
+        "Linguistics 538 “Computational Linguistics”",
+        "Linguistics 539 “Statistical Natural Language Processing”",
+        "Linguistics 581 “Advanced Computational Linguistics”"
+      ]
+    },
+    {
+      "name": "SIL International",
+      "position": "(several roles)",
+      "url": "https://www.sil.org",
+      "startDate": "2005-11-07",
+      "endDate": "2022-04-31",
+      "summary": "My work in SIL included basic linguistics and language documentation, as well as administrative supervision for academic support",
+      "highlights": ["Linguistics Consultant (Jul 2010 to present, continuing as a volunteer)",
+        "Associate Director for Academic Affairs, regional (Sept 2018 to Apr 2022)",
+        "Linguistics Coordinator, regional (Mar 2013 to Aug 2018)",
+        "Archive curator, regional (Apr 2013 to Aug 2016)",
+        "Community Project Linguist (Nov 2005 to May 2015)"
+      ]
+    },
+    {
+      "name": "Unbabel",
+      "position": "Linguistic annotator",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "Annotating linguistic error type & severity in video captions"
+    },
+    {
+      "name": "Sino-Tibetan Institute, Yunnan Normal University, in partnership with SIL International",
+      "position": "Curriculum developer and instructor",
+      "startDate": "2018",
+      "endDate": "2019",
+      "summary": "Develop and teach an MA-level course as part of a joint MA program in Chinese Minority Languages and Linguistics, “语音学与音系学” [“Phonetics and Phonology”]; all course materials and instruction in Mandarin"
+    },
+    {
+      "name": "Oregon Summer Institute of Linguistics",
+      "position": "Lead instructor",
+      "startDate": "2004",
+      "endDate": "2005",
+      "summary": "Linguistics 454/554 “Advanced Phonology”"
+    },
+    {
+      "name": "Office of Instructional Development, for the Department of Linguistics, UCLA",
+      "position": "TA Coordinator and instructor; Prof. Anoop Mahajan, faculty advisor",
+      "startDate": "2002-02-01",
+      "endDate": "2002-06-01",
+      "summary": "Linguistics 495b “College Teaching of Linguistics”"
+    },
+    {
+      "name": "Department of Linguistics, UCLA",
+      "position": "Teaching Assistant / Teaching Associate",
+      "startDate": "2000-09-01",
+      "endDate": "2002-02-01",
+      "highlights": ["Linguistics 1 “Introduction to the Study of Language”",
+        "Linguistics 20 “Introduction to Linguistics”",
+        "Linguistics 110 “Historical Linguistics”"]
+    },
+    {
+      "name": "Tellme Networks",
+      "position": "Linguistic consultant",
+      "startDate": "2000-06-01",
+      "endDate": "2000-08-31",
+      "summary": "Developing phonetic database of street names for TTS & ASR"
+    },
+    {
+      "name": "Jordan's Language Center, Hsinchu, Taiwan",
+      "position": "English instructor",
+      "startDate": "1998-10-01",
+      "endDate": "1999-06-01",
+      "highlights": ["“Conversational English”",
+        "“Business English”",
+        "“Basic English for Children”"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "CoLang 2024",
+      "location": "Tempe, Arizona",
+      "position": "Workshop facilitator & assistant facilitator",
+      "url": "https://drive.google.com/drive/folders/1QuRNfqQb__R1gDzZQ1ILVgLuSZlTf-kT",
+      "startDate": "2024-06-03",
+      "endDate": "2024-06-14",
+      "summary": "Facilitated and supported several workshops",
+      "highlights": ["Fieldworks Language Explorer 1 & 2, co-facilitator", "Natural Language Processing for Indigenous Languages, assistant", "Speech Recognition for Indigenous Languages, assistant"]
+    },
+    {
+      "organization": "Journal of Language Survey Reports",
+      "position": "Consulting editor",
+      "url": "https://www.sil.org/resources/publications/jlsr",
+      "startDate": "2011-03-01"
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of California, Los Angeles",
+      "location": "Los Angeles, California",
+      "url": "https://linguistics.ucla.edu/",
+      "area": "Linguistics",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2002-09-01",
+      "endDate": "2005-11-05",
+      "dissertation title": "Resultatives, Derived Statives, and Lexical Semantic Structure",
+      "committee chair": "Pamela Munro",
+      "committee": ["Daniel Büring", "Carson Schütze", "Henning Andersen"]
+    },
+    {
+      "institution": "University of California, Los Angeles",
+      "location": "Los Angeles, California",
+      "url": "https://linguistics.ucla.edu/",
+      "area": "Linguistics",
+      "studyType": "MA",
+      "startDate": "1999-09-01",
+      "endDate": "2002-08-31",
+      "thesis title": "The Stative s- Morpheme in Pima",
+      "committee chair": "Pamela Munro",
+      "committee": ["Carson Schütze", "Timothy Stowell"]
+    },
+    {
+      "institution": "University of Arizona",
+      "location": "Tucson, Arizona",
+      "url": "https://linguistics.arizona.edu/",
+      "area": "Linguistics",
+      "studyType": "BA",
+      "startDate": "1996-09-01",
+      "endDate": "1998-05-31"
+    },
+    {
+      "institution": "University of Arizona",
+      "location": "Tucson, Arizona",
+      "url": "https://physics.arizona.edu/",
+      "area": "Physics with honors",
+      "studyType": "BS",
+      "startDate": "1993-09-01",
+      "endDate": "1998-05-31",
+      "thesis title": "Modeling the Interaction of North American and Failed Rift Stresses: The Role of Rift Geometry",
+      "committee chair": "Randall Richardson"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "CS50X Introduction to Computer Science",
+      "issuer": "edX / HarvardX",
+      "icon": "fa-solid fa-laptop"
+    },
+    {
+      "name": "DSE200X Python for Data Science",
+      "issuer": "edX / UCSDX",
+      "icon": "fa-solid fa-code"
+    },
+    {
+      "name": "Foundations for Excellence in Teaching Online",
+      "issuer": "edX / ASUX",
+      "icon": "fa-solid fa-university"
+    },
+    {
+      "name": "Pytorch basics for machine learning",
+      "issuer": "edX / IBM",
+      "icon": "fa-solid fa-code-fork"
+    },
+    {
+      "name": "Neural networks and deep learning",
+      "issuer": "(online self-study)",
+      "url": "http://neuralnetworksanddeeplearning.com/",
+      "icon": "fa-solid fa-code-fork"
     }
   ],
   "awards": [
@@ -65,50 +215,6 @@
       "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -136,65 +242,88 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Technology",
+      "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Linux (desktop and shell, Ubuntu/Debian)",
+        "Virtualization (VirtualBox) and containerization (Docker) tools",
+        "Python (including NumPy, Pandas, MatPlotLib, NLTK, spaCy, Jupyter Notebooks), Perl, SQL, HTML, CSS",
+        "Version control (`git`, GitHub)",
+        "Office suites (LibreOffice, Google Workspace)"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English [eng]",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Mandarin [zho]",
+      "fluency": "reading; advanced conversation (ACTFL Advanced+)",
+      "icon": ""
+    },
+    {
+      "language": "Yang Zhuang [zyg] (Kra-Dai)",
+      "fluency": "field work (ACTFL Intermediate Mid)",
+      "icon": "fa-solid fa-language"
+    },
+    {
+      "language": "Akimel O'odham [ood] (Uto-Aztecan)",
+      "fluency": "fieldwork",
+      "icon": ""
+    },
+    {
+      "language": "Bolivian Aymara [ayr] (Aymaran)",
+      "fluency": "basic fieldwork",
+      "icon": ""
+    },
+    {
+      "language": "German [deu]",
+      "fluency": "reading; basic conversation",
+      "icon": ""
+    },
+    {
+      "language": "Russian [rus]",
+      "fluency": "reading; basic conversation",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Human Language Technology",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Partnering with data-scarce language communities to make computational tools available in their languages"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Language Documentation",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Producing quality materials documenting threatened languages, and training & assisting others—especially members of those language communities—to do the same"
+      ]
+    },
+    {
+      "name": "Linguistics",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Lexical semantics of verbs: argument structure, event structure, and their morphological expression and manipulation",
+        "Serial verb constructions in Zhuang and their connection to properties of discourse",
+        "Using novel computational tools to aid traditional dialectology, especially in Tai languages of China"
+      ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Advancing Indigenous Language Technology",
+      "icon": "fa-solid fa-laptop",
+      "summary": "The Advancing Indigenous Language Technologies (AILT) Working Group is coalition of academic and community language workers and scholars joining efforts to support the advancement of language technologies that serve Indigenous language community needs. AILT works to support language technology development that meets community needs, aligns with community values, and respects communities’ rights to data sovereignty.",
+      "highlights": ["Workshops at SAIL 2024", "Workshops at CoLang 2024", "Workshops with individual language communities"],
+      "startDate": "2023-08-01",
+      "url": "https://ailt.arizona.edu"
     }
   ]
 }
