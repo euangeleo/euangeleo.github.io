@@ -2,6 +2,33 @@
   url: https://uhpress.hawaii.edu/title/jseals/
   color: "#e86008"
 
+"SEALS":
+  color: "#e86008"
+
 "SIL-ESR":
   url: https://www.sil.org/resources/publications/jlsr
   color: "#006baa"
+
+"SIL-EBR":
+  url: https://www.sil.org/resources/publications/ebr
+  color: "#006baa"
+
+"UCLA-WPP":
+  url: https://escholarship.org/uc/uclaling_wpp
+  color: "#2774ae"
+
+"WAIL":
+  url: https://www.wailconference.org/
+  color: "#4a58b8"
+
+"SSILA":
+  url: https://www.ssila.org/
+  color: "#01655d"
+
+"LASSO":
+  url: https://lassoling.org/
+  color: "#bcbc7c"
+
+"LSA":
+  url: https://www.lsadc.org/
+  color: "#3b6e8f"
