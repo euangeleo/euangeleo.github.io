@@ -4,6 +4,11 @@
   {% if site.enable_publication_thumbnails %}
     <div class="col col-sm-2 abbr">
       {%- if entry.abbr -%}
+      <abbr class="badge rounded w-100" style="background-color:"{{ block.settings.global-theme-color }}">
+        {{ entry.cat }}
+      </abbr>
+      {%- endif -%}
+      {%- if entry.abbr -%}
         {%- if site.data.venues[entry.abbr] -%}
           {% assign venue_style = null %}
           {% if site.data.venues[entry.abbr].color != blank %}

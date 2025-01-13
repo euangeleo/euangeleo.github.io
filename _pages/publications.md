@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications, invited talks, and conference presentations
-description: Documentation of my work, by categories in reversed chronological order
+title: Publications
+description: Publications, invited talks, and conference presentations -- Documentation of my work, tagged by categories in reversed chronological order
 nav: true
 nav_order: 4
 ---
