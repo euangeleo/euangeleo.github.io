@@ -1,3 +1,7 @@
 "JSEALS":
   url: https://uhpress.hawaii.edu/title/jseals/
   color: "#e86008"
+
+"SIL-ESR":
+  url: https://www.sil.org/resources/publications/jlsr
+  color: "#006baa"
