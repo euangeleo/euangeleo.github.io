@@ -157,8 +157,8 @@
       "studyType": "PhD",
       "startDate": "2002-09-01",
       "endDate": "2005-11-05",
-      "dissertation title": "Resultatives, Derived Statives, and Lexical Semantic Structure",
-      "committee chair": "Pamela Munro",
+      "thesis": "Resultatives, Derived Statives, and Lexical Semantic Structure",
+      "advisor": "Pamela Munro",
       "committee": ["Daniel Büring", "Carson Schütze", "Henning Andersen"]
     },
     {
@@ -169,8 +169,8 @@
       "studyType": "MA",
       "startDate": "1999-09-01",
       "endDate": "2002-08-31",
-      "thesis title": "The Stative s- Morpheme in Pima",
-      "committee chair": "Pamela Munro",
+      "thesis": "The Stative s- Morpheme in Pima",
+      "advisor": "Pamela Munro",
       "committee": ["Carson Schütze", "Timothy Stowell"]
     },
     {
@@ -190,8 +190,8 @@
       "studyType": "BS",
       "startDate": "1993-09-01",
       "endDate": "1998-05-31",
-      "thesis title": "Modeling the Interaction of North American and Failed Rift Stresses: The Role of Rift Geometry",
-      "committee chair": "Randall Richardson"
+      "thesis": "Modeling the Interaction of North American and Failed Rift Stresses: The Role of Rift Geometry",
+      "advisor": "Randall Richardson"
     }
   ],
   "certificates": [
