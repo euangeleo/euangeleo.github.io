@@ -43,21 +43,17 @@
 
           <!-- START changes 20250114 E Jackson: New fields for Advisor, Committee members, and Thesis title -->
           {% if content.advisor %}
-            <h6 class="ml-1 ml-md-4" style="font-size: 0.9rem;">
-              <strong>Advisor:</strong> {{ content.advisor }}
-            </h6>
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.9rem;"><strong>Advisor:</strong> {{ content.advisor }}</h6>
           {% endif %}
           {% if content.committee %}
-            <h6 class="ml-1 ml-md-4" style="font-size: 0.9rem;">
-              <strong>Committee members:</strong> {{ content.committee | join: ', ' }}
-            </h6>
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.9rem;"><strong>Committee members:</strong> {{ content.committee | join: ', ' }}</h6>
           {% endif %}
           {% if content.thesis %}
             <h6 class="ml-1 ml-md-4" style="font-size: 0.9rem; font-style: italic;">
               <strong>Thesis title:</strong> "<em>{{ content.thesis }}</em>"
             </h6>
           {% endif %}
-          <!-- END changes 20250114 E Jackson-->
+          <!-- END changes 20250114 E Jackson -->
 
           <ul class="items">
             {% for item in content.courses %}
