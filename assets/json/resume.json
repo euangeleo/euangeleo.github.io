@@ -227,56 +227,66 @@
       "title": "Dynamic Language Infrastructure – Documenting Endangered Languages Grant (co-recipient with Amy Fountain, Aresta Tsosie-Paddock, and Rolando Coto-Solano)",
       "date": "2024",
       "awarder": "NSF / NEH",
-      "summary": "Grant title: “Collaborative Research: Advancing Indigenous Language Technologies” (2347147/2347148)"
+      "summary": "Grant title: “Collaborative Research: Advancing Indigenous Language Technologies” (2347147/2347148)",
+      "type": "grant"
     },
     {
       "title": "2023-4 Early Career Teaching Award",
       "date": "2024-09-12",
       "awarder": "U of A College of Social & Behavioral Science",
-      "summary": "In recognition of exceptional teaching and outstanding instructional excellence"
+      "summary": "In recognition of exceptional teaching and outstanding instructional excellence",
+      "type": "honor"
     },
     {
       "title": "Dissertation Year Fellowship",
       "date": "2004",
-      "awarder": "UCLA Graduate Division"
+      "awarder": "UCLA Graduate Division",
+      "type": "scholarship"
     },
     {
       "title": "Helmut Esau Student Paper Award",
       "date": "2004",
       "awarder": "Linguistic Association of the Southwest",
-      "summary": "for the paper “Dispersion in the Vowel System of Pima”"
+      "summary": "for the paper “Dispersion in the Vowel System of Pima”",
+      "type": "honor"
     },
     {
       "title": "Phillips Fund for North Native American Research, research grant (co-recipient with Marcus Smith)",
       "date": "2024-09-12",
       "awarder": "American Philosophical Society",
-      "summary": "Grant title: “Aspects of the Grammar of Pima”"
+      "summary": "Grant title: “Aspects of the Grammar of Pima”",
+      "type": "grant"
     },
     {
       "title": "Research Mentorship, under Prof. Pamela Munro",
       "date": "2002",
-      "awarder": "UCLA"
+      "awarder": "UCLA",
+      "type": "scholarship"
     },
     {
       "title": "Research grant (co-recipient with Marcus Smith)",
       "date": "2002",
       "awarder": "UCLA Institute of American Cultures & UCLA American Indian Studies Center",
-      "summary": "Grant title: “Syntax and Semantics of Pima Verbs”"
+      "summary": "Grant title: “Syntax and Semantics of Pima Verbs”",
+      "type": "grant"
     },
     {
       "title": "Summer Research Mentorship, under Prof. Pamela Munro",
       "date": "2002",
-      "awarder": "UCLA"
+      "awarder": "UCLA",
+      "type": "scholarship"
     },
     {
       "title": "Pauley Foundation Fellowship",
       "date": "1999",
-      "awarder": "UCLA"
+      "awarder": "UCLA",
+      "type": "scholarship"
     },
     {
       "title": "Outstanding Senior",
       "date": "1998",
-      "awarder": "University of Arizona CDepartment of Physics"
+      "awarder": "University of Arizona CDepartment of Physics",
+      "type": "honor"
     },
     {
       "title": "UA Dean of Science review committee, undergraduate representative",
@@ -284,23 +294,28 @@
     },
     {
       "title": "Phi Beta Kappa Honor Society",
-      "date": "1997"
+      "date": "1997",
+      "type": "honor"
     },
     {
       "title": "Flinn Foundation Scholarship",
-      "date": "1993"
+      "date": "1993",
+      "type": "scholarship"
     },
     {
       "title": "National Merit Scholarship",
-      "date": "1993"
+      "date": "1993",
+      "type": "scholarship"
     },
     {
       "title": "International Baccalaureate diploma",
-      "date": "1993"
+      "date": "1993",
+      "type": "honor"
     },
     {
       "title": "Eagle Scout rank",
-      "date": "1991"
+      "date": "1991",
+      "type": "honor"
     }
   ],
   "publications": [
