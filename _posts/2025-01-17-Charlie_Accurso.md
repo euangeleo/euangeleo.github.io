@@ -15,7 +15,6 @@ It's one goal of our program that practical experience like this prepares studen
 
 Check out Charlie's public projects on his GitHub page:
 
-
 <https://github.com/charlieaccurso>
 
 <div class="row mt-3">
