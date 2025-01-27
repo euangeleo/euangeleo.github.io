@@ -19,6 +19,6 @@ Wishing you all the best in your future endeavors, Laura!
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/20250127-1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/20250127-1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
