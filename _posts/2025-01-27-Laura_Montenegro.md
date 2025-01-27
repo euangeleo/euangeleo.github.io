@@ -7,7 +7,7 @@ tags: students
 categories: MSHLT
 ---
 
-[See this post on LinkedIn](example.com)
+[See this post on LinkedIn](https://example.com)
 
 Our _Master's in Human Language Technology_ program had one other student graduate in the fall semester: [Laura Montenegro](https://www.linkedin.com/in/laura-montenegro-872930b2/). For her internship with [Cobalt Speech](https://www.cobaltspeech.com/), Laura evaluated a hybrid ASR model (using a Hidden Markov Model-Deep Neural Network) for [low-resource languages](https://medium.com/neuralspace/low-resource-language-what-does-it-mean-d067ec85dea5) using Cobalt's existing tools.
 
