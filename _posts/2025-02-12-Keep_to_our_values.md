@@ -8,7 +8,7 @@ categories: LinkedIn
 
 [See this post on LinkedIn](https://www.linkedin.com/posts/eric-m-jackson_dei-nsa-dei-activity-7295475385578704896-OwTL)
 
-We need to make sure that the current push to get rid of DEI in government is not simply a stealthy way to reintroduce bias, echo chambers, and other things that will hinder us. Whether the recent infamous photo of a wall being repainted at the FBI academy was really at the FBI academy or not (https://www.snopes.com/news/2025/02/07/fbi-core-values-mural/), we need to maintain the values that we hold as a country, regardless of the winds of administrative change. Those values include diversity, equity, and inclusion, as well as compassion, fairness, integrity, respect, and stability.
+We need to make sure that the current push to get rid of DEI in government is not simply a stealthy way to reintroduce bias, echo chambers, and other things that will hinder us. Whether the recent infamous photo of a wall being repainted at the FBI academy was really at the FBI academy or not [https://www.snopes.com/news/2025/02/07/fbi-core-values-mural/](https://www.snopes.com/news/2025/02/07/fbi-core-values-mural/), we need to maintain the values that we hold as a country, regardless of the winds of administrative change. Those values include diversity, equity, and inclusion, as well as compassion, fairness, integrity, respect, and stability.
 
 Dr. Renée Burton makes the case well in this post.
 
