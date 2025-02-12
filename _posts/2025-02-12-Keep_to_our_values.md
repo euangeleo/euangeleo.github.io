@@ -12,7 +12,7 @@ We need to make sure that the current push to get rid of DEI in government is no
 
 Dr. Renée Burton makes the case well in this post.
 
-"Being insecure about common sense words like: diversity. equity. inclusion. will destroy not aid our economy."
+> "Being insecure about common sense words like: diversity. equity. inclusion. will destroy not aid our economy."
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7291958128059854849" height="1598" width="504" frameborder="0" allowfullscreen="" title="Embedded post">
 </iframe>
