@@ -13,8 +13,8 @@ This February 21st marks the 25th anniversary of the establishment of [Internati
 
 [The original UN resolution](https://docs.un.org/en/A/RES/61/266) establishing International Mother Language Day highlights several points about language:
 
-* **multilingualism**—when one person speaks more than one language—is a means of promoting, protecting and preserving diversity of languages and cultures globally
-* genuine multilingualism promotes unity in diversity and promotes international understanding, both of which contribute to peaceful and mutually beneficial international relationships
+- **multilingualism**—when one person speaks more than one language—is a means of promoting, protecting and preserving diversity of languages and cultures globally
+- genuine multilingualism promotes unity in diversity and promotes international understanding, both of which contribute to peaceful and mutually beneficial international relationships
 
 Since this is a UN resolution, it's natural that it focuses on issues at an international scale. However, issues of language and multilingualism can be found at any level of society, from the international scale, to your town, and to your own neighborhood and schools. There are people in the places where you shop, the places where you or your children study, or even the places where you worship, who speak languages that are different from yours. That should not represent a barrier to be overcome, but an opportunity for you to learn from a different way to look at the world.
 
@@ -22,6 +22,7 @@ Next week, I'll be attending [the UNESCO Language Technologies for All Conferenc
 
 Is there something that you could do to celebrate International Mother Language Day this year? Consider starting by simply finding out about the other languages that are spoken where you live. Tucson is the traditional home to communities who speak Hiaki and O'odham, and many other languages can now be found around town. Taking the next step and trying to **learn** one of these languages, to paraphrase Humphrey Bogart, could be the beginning of some beautiful friendships.
 
-<a href="https://www.un.org/en/observances/mother-language-day" target="_blank"><img src="https://www.un.org/sites/un2.un.org/files/2020/01/mother-language-poster.jpg">
+<div style="position:absolute; width:100%; height:100%;">
+<a href="https://www.un.org/en/observances/mother-language-day" target="_blank"><img src="https://www.un.org/sites/un2.un.org/files/2020/01/mother-language-poster.jpg" style="vertical-align:middle; text-align:center">
 </a>
-
+</div>
