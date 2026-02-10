@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HLT Careers Speaker Series, March 6, Trevor Sullivan
+title: "HLT Careers Speaker Series, March 6, Trevor Sullivan"
 date: 2026-02-10 11:00:00
 description: "Are you interested in learning more about charting your career in Human Language Technology? Come hear from someone working in this field on March 6th"
 tags: HLT, students
