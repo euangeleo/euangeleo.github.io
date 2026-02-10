@@ -17,7 +17,7 @@ Friday, March 6, 2026<br />
 3:00pm to 4:00pm (Arizona time)<br />
 https://arizona.zoom.us/j/87802658602 
 
-These talks are intended to benefit current HLT students who will be looking for HLT jobs following graduation, but are also open to other members of the department, and to people who may be interested in applying to the HLT program. In order for all of our online HLT students to be able to participate, the talks will be offered on Zoom only, and will be recorded for those who can't attend at that time. Recordings of these talks will be made available on the Linguistics Department website.
+These talks are intended to benefit current HLT students who will be looking for HLT jobs following graduation, but are also open to other members of the department, and to people who may be interested in applying to the HLT program. In order for all of our online HLT students to be able to participate, the talks will be offered on Zoom only, and will be recorded for those who can't attend at that time. Recordings of these talks will be made available on [the Linguistics Department website](https://linguistics.arizona.edu/hlt-career-talks).
 
 <div style="width:800px; height:auto;">
 <img src="/assets/img/HLTtalk25-26_2.jpg" style="vertical-align:middle; text-align:center" alt="announcement image with speaker photo and time, date, zoom info">
