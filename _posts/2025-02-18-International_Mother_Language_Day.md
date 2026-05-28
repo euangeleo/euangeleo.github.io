@@ -22,7 +22,7 @@ Next week, I'll be attending [the UNESCO Language Technologies for All Conferenc
 
 Is there something that you could do to celebrate International Mother Language Day this year? Consider starting by simply finding out about the other languages that are spoken where you live. Tucson is the traditional home to communities who speak Hiaki and O'odham, and many other languages can now be found around town. Taking the next step and trying to **learn** one of these languages, to paraphrase Humphrey Bogart, could be the beginning of some beautiful friendships.
 
-<div style="position:absolute; width:100%; height:100%;">
+<div style="text-align: center; margin-top: 2rem;">
 <a href="https://www.un.org/en/observances/mother-language-day" target="_blank"><img src="https://www.un.org/sites/un2.un.org/files/2020/01/mother-language-poster.jpg" style="max-width: 100%; height: auto; vertical-align: middle;">
 </a>
 </div>
