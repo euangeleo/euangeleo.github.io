@@ -41,4 +41,6 @@ If you're unsure what individual companies to try to connect with, or you're not
 
 Finding a great project for your HLT internship can take a lot of planning, a lot of time, and a lot of conversations with peers and other professionals. It might be tiring, and it might at times require stretching beyond what you're comfortable with. It does _not_ mean that you're limited to battling applicant tracking systems and becoming one among thousands of applications for a handful of roles. Thinking about the kinds of projects and causes that excite you, thinking creatively about how you can apply the language technology tools that you've learned about to solve problems, and connecting with people who share your goals, can lead to a valuable, meaningful, and educational experience!
 
-<img src="/assets/img/20260528-1.jpg" style="vertical-align:middle; text-align:center">
+<div style="text-align: center; margin-top: 2rem;">
+<img src="/assets/img/20260528-1.jpg" style="max-width: 100%; height: auto; vertical-align: middle;">
+</div>
