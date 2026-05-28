@@ -1,0 +1,46 @@
+---
+layout: post
+title: How to find an internship in Human Language Technology
+date: 2026-05-28 11:00:00
+description: "How can you find an internship in Human Language Technology as part of the MS program? It might be easier than you think!"
+tags: HLT, students
+categories: MSHLT, LinkedIn
+---
+
+Students in the [MS in Human Language Technology](https://linguistics.arizona.edu/ms-hlt) program are required to secure a roughly 300-hour internship as one of the program requirements. This can feel like a stressful experience for some, but with some creativity and a willingness to start conversations, the following suggestions can lead to some amazing opportunities for students to apply what they've learned in the program in a realistic setting. I'm sharing this advice here because some of these suggestions may also help those who are simply looking for practical projects in language technology that will help them build their professional portfolio. 
+
+For students in the HLT program, [the Graduate Handbook](https://linguistics.arizona.edu/sites/linguistics.arizona.edu/files/2024-11/Grad-Handbook-May-2024_Present_updated.pdf#page=27) contains some information about the internship, but the most detailed source of information about the internship is on the Linguistics Department website at 
+
+https://linguistics.arizona.edu/ms-hlt/internships
+
+One of the documents on that page is labeled the "[internship syllabus](https://linguistics.arizona.edu/sites/linguistics.arizona.edu/files/hlt-internship.pdf)", and that is where you'll find the most detail about the internship. This is how the goals of the internship are described there:
+
+> The primary goal of an internship is to give students an opportunity to apply lessons learned in the classroom to a real-world experience set in a professional practice-oriented environment, with the intern’s work preferably overseen by a professional. In particular, the goal of the internship is to give the student a practical perspective on problems and applications in Human Language Technology. In addition to offering students the opportunity to demonstrate and develop their technical skills, the internship allows students to develop professional skills such as teamwork, leadership, critical thinking, and effective communication, professional networking, as well as an understanding of business procedures and the types of social interaction relevant to working in industry. Finally, it should provide students with work experience within a semi-formal academic framework that carries with it official course credit from The University of Arizona.
+
+Note from this what the goals of the internship are ***not***:
+* The university doesn't require it to be a paid position.
+* The university doesn't require it to be a role that a technology company calls "an internship".
+* It is not *just* about applying what you've learned so far, but might also involve learning new things.
+* It is not *just* about learning to code bigger or better, but also involves teamwork and other professional practices.
+
+There are a wide range of practical projects in which students can learn about working as part of a team; communicating complex ideas to supervisors, clients, or colleagues with different skill sets and backgrounds; and interpreting the needs that those colleagues articulate into practical, efficient, and scalable language technology solutions. An "internship" like this will teach students about managing responsibilities and coordinating effort with others, and applying their creativity in problem-solving.  
+
+Whatever project students in our program choose to work on, it must involve working in some applied aspect of human language technology, and this is typically satisfied by the student writing code to solve an HLT-related problem. Internships that don't involve writing code don't meet the goals of our program, and internships that involve writing code that is unrelated to HLT-related problems are also to be avoided.
+
+If you can find a faculty member who already has a suitable project in mind and who is just looking for someone with the time to take it on, that can provide a project that is often more research-oriented than industry-oriented; although not in industry, this is an approach that students occasionally use.
+
+It is of course possible to search general job boards like [Indeed](https://www.indeed.com/) for openings that companies advertise as internships. One additional resource that University of Arizona students have access to is [Handshake](https://arizona.joinhandshake.com/login) (UA students can log in with their university credentials), but this is ultimately just another job board, and can suffer from some of the general problems that job boards face, like a relatively small number of openings that involve language technology, and a large number of applicants that may also be applying for the same roles.
+
+Unfortunately, everything that I've heard about the job market now from people looking for full-time work and from people looking for paid internships is that it's challenging for anyone, let alone someone who is establishing a basic foundation in HLT and is looking to expand their skills through an internship. On the other hand, what might count as a good HLT internship from the university's perspective isn't the same as what gets advertised on job boards as an internship.
+
+Our HLT faculty have often suggested that students who are looking for an internship consider a company, non-profit, or other organization that they already have some kind of connection to—perhaps an organization that addresses a cause you support, someplace that you have worked or volunteered in the past, or even an organization that you have benefitted from in the past. You can try to start a conversation with someone at such an organization, see if they have any language data, and then offer any kind of analysis or tool-development that would help them better accomplish what they're trying to do. This gives you a real-world task to work on, in a client-service context, with real language data, but is still low-stakes for the company or organization you're serving. We've had a significant fraction of HLT students successfully find their "internship" project this way.
+
+Another approach, and one that I recommend in [LING 688 *Professionalism in HLT*](https://euangeleo.github.io/courses/ua_688/) (aka "how to get a job in tech"), is to try to find opportunities by talking to people in your network of connections, and even *expanding* that network. If you can do a bit of searching and find a company whose work you're interested in, you can try to start a conversation over email or over LinkedIn with a professional there. You can even see if that person is open to an informational interview (ie, a brief conversation where you can get this person's perspective or advice; here's [more information about informational interviews](https://career.arizona.edu/blog/2023/04/21/the-tips-and-tricks-of-informational-interviewing/)). In the conversation you have with that person, you can present your background and the kind of practical project you're looking for, and then ask what recommendations they might have for someone like that. You can ask about their recommendations for someone with those goals looking to connect with their company or looking to work in the field more broadly. Maybe there's someone they know that they might recommend you talk to next.
+
+If you're unsure what individual companies to try to connect with, or you're not comfortable trying to start a conversation with someone that you have zero connections with so far, you can try this by reaching out to past graduates of the HLT program by searching LinkedIn (or for those who aren't in the HLT program, by searching for professionals who are graduates of schools or programs that you *are* connected to). Some of these professionals may be at places where they might be able to host an intern themselves. You can also ask around current HLT students (or peers wherever you are) and see if anyone who has already found an internship knows if their host is looking for more interns.
+
+Finding a great project for your HLT internship can take a lot of planning, a lot of time, and a lot of conversations with peers and other professionals. It might be tiring, and it might at times require stretching beyond what you're comfortable with. It does *not* mean that you're limited to battling applicant tracking systems and becoming one among thousands of applications for a handful of roles. Thinking about the kinds of projects and causes that excite you, thinking creatively about how you can apply the language technology tools that you've learned about to solve problems, and connecting with people who share your goals, can lead to a valuable, meaningful, and educational experience!
+
+<div style="position:absolute; width:100%; height:100%;">
+<img src="/assets/img/20260528-1.jpg" style="vertical-align:middle; text-align:center">
+</div>
