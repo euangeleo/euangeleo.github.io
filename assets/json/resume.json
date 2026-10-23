@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Eric M. Jackson",
-    "label": "Assistant Professor of Practice",
+    "label": "Associate Professor of Practice",
     "image": "",
     "email": "ejackson1@arizona.edu",
     "phone": "+1 (520) 621-6897",
     "url": "https://euangeleo.github.io/",
-    "summary": "Language and Linguistics | Natural Language Processing | Leadership",
+    "summary": "Language & Linguistics | Human Language Technology | Mentoring & Leadership",
     "location": {
       "address": "Communications Building, Room 109",
       "postalCode": "AZ 85721",
@@ -34,10 +34,10 @@
     {
       "name": "Department of Linguistics, University of Arizona",
       "location": "Tucson, Arizona",
-      "position": "Assistant Professor of Practice",
+      "position": "Associate Professor of Practice",
       "url": "https://linguistics.arizona.edu",
       "startDate": "2021-10-01",
-      "summary": "Teaching courses primarily in the online _Master's in Human Language Technology_ program",
+      "summary": "Teaching courses primarily in the online MS in Human Language Technology program",
       "highlights": [
         "Linguistics 123 “Intro to Mathematical Approaches to Language”",
         "Linguistics 503 “Foundations of Syntax”",
@@ -46,13 +46,14 @@
         "Linguistics 531 “Human Language Technology 2: Information Retrieval”",
         "Linguistics 538 “Computational Linguistics”",
         "Linguistics 539 “Statistical Natural Language Processing”",
-        "Linguistics 581 “Advanced Computational Linguistics”"
+        "Linguistics 581 “Advanced Computational Linguistics”",
+        "Linguistics 688 “Professionalism in Human Language Technology”"
       ]
     },
     {
       "name": "SIL International",
       "location": "various",
-      "position": "Linguistics Consultant\nAssociate Director for Academic Affairs\n(other roles as below)",
+      "position": "Linguistics Consultant; Associate Director for Academic Affairs; other roles as below",
       "url": "https://www.sil.org",
       "startDate": "2005-11-07",
       "endDate": "2022-04-31",
@@ -224,6 +225,13 @@
   ],
   "awards": [
     {
+      "title": "Dean’s Office Leadership Fellow",
+      "date": "2026-27",
+      "awarder": "University of Arizona, College of Social and Behavioral Science",
+      "summary": "Faculty Affairs and Advancement: supporting faculty preparation for adapting course content to generative AI",
+      "type": "honor"
+    },
+    {
       "title": "Dynamic Language Infrastructure – Documenting Endangered Languages Grant (co-recipient with Amy Fountain, Aresta Tsosie-Paddock, and Rolando Coto-Solano)",
       "date": "2024",
       "awarder": "NSF / NEH",
@@ -233,7 +241,7 @@
     {
       "title": "2023-4 Early Career Teaching Award",
       "date": "2024-09-12",
-      "awarder": "U of A College of Social & Behavioral Science",
+      "awarder": "University of Arizona, College of Social and Behavioral Science",
       "summary": "In recognition of exceptional teaching and outstanding instructional excellence",
       "type": "honor"
     },
@@ -285,7 +293,7 @@
     {
       "title": "Outstanding Senior",
       "date": "1998",
-      "awarder": "University of Arizona CDepartment of Physics",
+      "awarder": "University of Arizona, Department of Physics",
       "type": "honor"
     },
     {
