@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Apply now to the MS in Human Language Technology
-date: 2026-06-11 11:00:00
-description: "We’ll soon be finalizing the Fall 2026 cohort in the online MS in Human Language Technology at the University of Arizona. We could help you find your next great opportunity."
-tags: HLT, students
-categories: MSHLT, LinkedIn
+title: Understanding how modern AI systems work, and how they compare to human thinking
+date: 2026-10-23 11:00:00
+description: "Although most of my teaching aims to help linguists gain skills to work with and design language technology applications, I occasionally get the chance to help community members understand technology applications better, also. ..."
+tags: teaching, AI
+categories: LinkedIn
 ---
 
 [See this post on LinkedIn](https://lnkd.in/p/gC3wpsPx) 
