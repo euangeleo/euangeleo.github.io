@@ -15,7 +15,7 @@ For this reason, I was thrilled when I recently had the chance to speak to the S
 
 In order to address this question, though, we need to become aware of the very human bias that equates "language" with "thought." These two things are not the same. You may have missed my recent talk, but you can find my slides at
 
-https://sbfreethinkers.wordpress.com/events/past-events/
+[https://sbfreethinkers.wordpress.com/events/past-events/](https://sbfreethinkers.wordpress.com/events/past-events/)
 
 Thank you to Ginny Healy for the connection, Barbara Starrett for the invitation, and all the Freethinkers for a stimulating question and answer session.
 
